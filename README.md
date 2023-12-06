@@ -1,1 +1,1 @@
-# Assignments_M3
+This assignment of module3 is about the testing on live application of s/w testing which includes responsive testing, basic introduction of API testing , cross browser testing, advance mobile testing and database with SQL.
